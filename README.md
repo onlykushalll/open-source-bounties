@@ -59,6 +59,14 @@ We focus on clearing long-standing, high-complexity open-source issues with **10
 
 ---
 
+## Release Notes & Documentation
+
+### Latest Release: v2.1.0
+For detailed information about the latest release, see **[UPGRADE_NOTICE.md](./UPGRADE_NOTICE.md)** and component-specific release notes:
+- **[Maintainer Bot-Shield v2.1](./by-domain/01-agent-security-and-bot-shield/RELEASE_NOTES_v2.1.0.md)**
+- **[Creative Liberation Engine v2.1.0](./by-domain/06-ai-studio-mcp-and-global-diagnostics/RELEASE_NOTES_v2.1.0.md)**
+- **[STIR + IESCS SDK v2.1.0](./by-domain/03-scientific-materials-bio-and-6g-rf/RELEASE_NOTES_v2.1.0.md)**
+
 ## Priority Issue & Enterprise Backlog Sprint Intake (For Maintainers & Engineering Leads)
 
 Read our detailed **[Engineering Case Studies (`CASE_STUDIES.md`)](./CASE_STUDIES.md)**, **[Enterprise Backlog Sprints (`ENTERPRISE_SPRINTS.md`)](./ENTERPRISE_SPRINTS.md)**, and **[Security Charter (`SECURITY.md`)](./SECURITY.md)**.

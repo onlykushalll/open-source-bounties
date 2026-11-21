@@ -16,3 +16,9 @@ git fetch --all --tags
 git pull origin main
 python3 kits/stir-iescs-agent-protocol/stir_iescs.py --json
 ```
+
+## Domain-Specific Release Notes
+For detailed information about each component, see the domain-specific release notes:
+- **[Maintainer Bot-Shield v2.1](./by-domain/01-agent-security-and-bot-shield/RELEASE_NOTES_v2.1.0.md)**: Zero-dependency GitHub Actions workflow for PR spam protection
+- **[Creative Liberation Engine v2.1.0](./by-domain/06-ai-studio-mcp-and-global-diagnostics/RELEASE_NOTES_v2.1.0.md)**: Unified single-home architecture for the engine and community gifts
+- **[STIR + IESCS SDK v2.1.0](./by-domain/03-scientific-materials-bio-and-6g-rf/RELEASE_NOTES_v2.1.0.md)**: Zero-dependency Python implementation of the agentic wire protocol
